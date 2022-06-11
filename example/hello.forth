@@ -1,0 +1,2 @@
+: world print ;
+hello world
